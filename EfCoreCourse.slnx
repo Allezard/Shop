@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Shop.Legacy.Tests/Shop.Legacy.Tests.csproj" Id="69712d66-1a09-4db2-b38a-297115c8ccc7" />
+  <Project Path="Shop.Legacy/Shop.Legacy.csproj" />
+  <Project Path="Shop.Load/Shop.Load.csproj" Id="5407328c-4905-4858-93ba-64f0045cdb98" />
+  <Project Path="Shop.Reference.Tests/Shop.Reference.Tests.csproj" Id="aac81279-88e9-46ed-b1ce-a4820464dfb6" />
+  <Project Path="Shop.Reference/Shop.Reference.csproj" />
+  <Project Path="Shop.Workspace/Shop.Workspace.csproj" />
+</Solution>
